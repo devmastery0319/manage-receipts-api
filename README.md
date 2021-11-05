@@ -9,5 +9,3 @@ Content of this repo:
   - [Node JS](nodejs)
   - [Objective-C and Swift](objc)
   - [Shell](sh) for command line usage
-
->  Is something missing or you want to give feedback? Then please get in contact via [support form](https://www.receipts-app.com/support.html).
